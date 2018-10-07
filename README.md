@@ -1,4 +1,4 @@
-### Algos
+### Algorithms
 
 ## Sorting Algorithms
 
